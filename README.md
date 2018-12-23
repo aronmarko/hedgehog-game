@@ -5,6 +5,6 @@ You have to use just the SPACE button for jumping. You have to jump over the wal
 The repo containes the python file, images and sounds. 
 Have fun!
 
-Requeirements
+# Requeirements
   *Python (https://www.python.org/downloads/)
   *pygame library (open cmd: pip install pygame)
