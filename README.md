@@ -7,4 +7,4 @@ Have fun!
 
 # Requeirements
   Python (https://www.python.org/downloads/),
-  pygame library https://www.pygame.org/wiki/GettingStarted (depends on your operation system)
+  pygame library https://www.pygame.org/wiki/GettingStarted (depends on your operating system)
