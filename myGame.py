@@ -11,7 +11,6 @@ hedgehog_height = 50
 
 black = (0, 0, 0)
 white = (255, 255, 255)
-transparent = (0, 0, 0, 0)
 
 #Loading sound files
 background_sound = pygame.mixer.music.load('background.mp3')
