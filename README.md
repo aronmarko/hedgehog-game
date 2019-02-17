@@ -6,5 +6,6 @@ The repo containes the python file, images and sounds.
 Have fun!
 
 # Requeirements
-  Python (https://www.python.org/downloads/) \n
+  Python (https://www.python.org/downloads/)
+  
   pygame library https://www.pygame.org/wiki/GettingStarted (depends on your operating system)
