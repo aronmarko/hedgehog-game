@@ -152,7 +152,7 @@ def game_loop():		#game loop
 		gameDisplay.blit(backgroundImg, (rel_bgx - backgroundImg.get_rect().width, 0))		#moving background image
 		if rel_bgx < display_width:
 			gameDisplay.blit(backgroundImg, (rel_bgx, 0))
-		bgx -= 3		#image speed sebessége
+		bgx -= 3		#image speed
 		
 		for event in pygame.event.get():
 		
