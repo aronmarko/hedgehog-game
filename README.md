@@ -9,3 +9,6 @@ Have fun!
   Python (https://www.python.org/downloads/)
   
   pygame library https://www.pygame.org/wiki/GettingStarted (depends on your operating system)
+
+# Starting game
+  If you install the requirements and everything works fine, then just double click on hedgehogGame.py file.
